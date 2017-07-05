@@ -30,6 +30,6 @@ Foi gerado projeto Maven e remanufaturado de forma que fosse possível executar 
 
 Com relação ao check style: Foi executado através do Eclipse, conforme visto em aula, e através do Maven, com o comando: `mvn site`. O resultado, 0 erros, encontra-se em target/site/checkstyle.html
 
-Com relação ao teste de cobertura, for verificada a existência do plugin JaCoCo, para execução total a partir do Maven, porém o mesmo não foi visto em aula, e não foi possível configurar no tempo de prova. O teste foi feito com o Plug-in EclEmma, seguindo os mesmos passos vistos em aula:
+Com relação ao teste de cobertura, for verificada a existência do plugin JaCoCo, para execução total a partir do Maven, porém não foi possível configurar no tempo de prova. O teste foi feito com o Plug-in EclEmma, seguindo os mesmos passos vistos em aula:
 
 ![Alt text](cobertura.png?raw=true "Teste de Cobertura")
